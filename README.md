@@ -9,5 +9,5 @@
 pip install numpy
 pip install matplotlib
 
-#If you want to create an image based off of a custom text instead of a random quote, change this line and put in your text instead:
+# If you want to create an image based off of a custom text instead of a random quote, change this line and put in your text instead:
 text = get_quote()
